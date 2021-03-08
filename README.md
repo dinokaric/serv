@@ -1,0 +1,4 @@
+.env default:
+
+HTTP_PORT = 8081
+ENVIROMENT = DEV
